@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\ReadingInsults\ReadingInsults\bin\Debug\ReadingInsults.exe.config
+c:\users\user\documents\visual studio 2012\Projects\ReadingInsults\ReadingInsults\bin\Debug\ReadingInsults.exe
+c:\users\user\documents\visual studio 2012\Projects\ReadingInsults\ReadingInsults\bin\Debug\ReadingInsults.pdb
+c:\users\user\documents\visual studio 2012\Projects\ReadingInsults\ReadingInsults\obj\Debug\ReadingInsults.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ReadingInsults\ReadingInsults\obj\Debug\ReadingInsults.exe
+c:\users\user\documents\visual studio 2012\Projects\ReadingInsults\ReadingInsults\obj\Debug\ReadingInsults.pdb
